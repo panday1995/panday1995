@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I am Fan 👋
 
-<!--
-**panday1995/panday1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on the [Getting The Data Right](https://www.en.plan.aau.dk/getting-the-data-right/) Project
+- 🌱 I’m currently learning backend development, as well as 
+- 👯 I’m looking to collaborate on sustainability-related data and tools
+
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fan-yang-b3b3a3145/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fan-yang-b3b3a3145/)
+&nbsp;&nbsp;
