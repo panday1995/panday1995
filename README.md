@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fan-yang-b3b3a3145/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fan-yang-b3b3a3145/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fan-yang-b3b3a3145#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fan-yang-b3b3a3145#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 
