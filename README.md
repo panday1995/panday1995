@@ -36,4 +36,8 @@
 
 </details>
 
+<details>
+  <summary>:zap: Language use</summary>
+  <img align="left" alt="Fan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panday1995&layout=compact&theme=highcontrast#gh-light-mode-only"/>
+</details>
 
