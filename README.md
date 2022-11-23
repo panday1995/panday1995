@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on the [Getting The Data Right](https://www.en.plan.aau.dk/getting-the-data-right/) project
-- 🌱 I’m currently learning ___backend development___, ___general data architecture___, and ___advanced sustainability data modelling___
+- 🌱 I’m currently learning ___general data architecture___, ___data engineering tools___, and ___advanced sustainability data modelling___
 - 👯 I would like to collaborate on everything related to sustainability data and tools
 
 ### Connect with me:
