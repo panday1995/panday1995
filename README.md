@@ -31,22 +31,3 @@
 </br>
 </br>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-</br>
-  <img align="left" alt="Fan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=panday1995&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-</br>
-
-
-
-
-
-<details>
-  <summary>:zap: Language use</summary>
-  </br>
-  <img align="left" alt="Fan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panday1995&layout=compact&theme=highcontrast#gh-light-mode-only"/>
-</details>
-
